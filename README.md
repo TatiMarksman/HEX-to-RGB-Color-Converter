@@ -1,42 +1,22 @@
-# HEX to RGB Renk Dönüştürücü
+# HEX to RGB Color Converter
 
-Modern ve kullanıcı dostu bir HEX to RGB renk dönüştürücü uygulaması.
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-## Özellikler
+A simple and modern HEX to RGB color converter built with React.
 
-- 🎨 HEX renk kodlarını RGB'ye dönüştürme
-- 📱 Responsive tasarım
-- 🔄 Gerçek zamanlı dönüştürme
-- 📋 Kopyalama butonları
-- 🎯 3 karakterli ve 6 karakterli HEX kodlarını destekler
-- ✨ Modern ve şık arayüz
+## Features
 
-## Kurulum
+- 🎨 Convert HEX color codes to RGB format
+- 📱 Responsive design
+- 🔄 Real-time conversion
+- ✨ Clean and modern UI
+- 🎯 Supports 6-character HEX codes
 
-1. Bağımlılıkları yükleyin:
+## Quick Start
+
 ```bash
 npm install
-```
-
-2. Uygulamayı başlatın:
-```bash
 npm start
 ```
 
-3. Tarayıcınızda `http://localhost:3000` adresini açın.
-
-## Kullanım
-
-1. HEX renk kodunu girin (örn: #ff6b6b veya #f6b)
-2. RGB sonucunu görün
-3. HEX veya RGB değerini kopyalamak için "Kopyala" butonunu kullanın
-
-## Teknolojiler
-
-- React 18
-- CSS3
-- Modern JavaScript (ES6+)
-
-## Lisans
-
-MIT
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
